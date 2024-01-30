@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark David Prado</h1>
 <h3 align="center">An IT student and newbie programmer</h3>
-<img align="right" alt="GIF" src="https://media.tenor.com/ojD7kYfG7FsAAAAi/marin-marin-kitagawa.gif">
+<img align="right" alt="GIF" width="400" src="https://media.tenor.com/ojD7kYfG7FsAAAAi/marin-marin-kitagawa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiritos40&label=Profile%20views&color=0e75b6&style=flat" alt="kiritos40" /> </p>
 

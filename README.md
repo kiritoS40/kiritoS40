@@ -6,6 +6,8 @@
 <p align="left">
   <img src="https://img.shields.io/github/followers/kiritos40?label=followers&style=flat-square&logo=github" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/kiritos40?style=flat-square&logo=github" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/programming languages-3-blueviolet?style=flat-square" alt="Languages known" />
+  <img src="https://img.shields.io/github/last-commit/kiritos40/kiritos40?style=flat-square" alt="GitHub last commit" />
 </p>
 
 - 🌱 I’m currently learning **Basic Web Development**

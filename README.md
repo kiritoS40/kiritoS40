@@ -2,11 +2,9 @@
 <h3 align="center">An IT student and newbie programmer</h3>
 <img align="right" alt="GIF" width="400" src="https://media.tenor.com/ojD7kYfG7FsAAAAi/marin-marin-kitagawa.gif">
 
-
 <p align="left">
-  <img src="https://img.shields.io/github/followers/kiritos40?label=followers&style=flat-square&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/kiritos40?style=flat-square&logo=github" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/last-commit/kiritos40/kiritos40?style=flat-square" alt="GitHub last commit" />
+  <img src="https://img.shields.io/github/followers/kiritos40?label=followers&style=flat-square&logo=github&color=red" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/kiritos40?style=flat-square&logo=github&color=green" alt="GitHub stars" />
 </p>
 
 - 🌱 I’m currently learning **Basic Web Development**

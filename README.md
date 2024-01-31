@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools I touched:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=latex,java,linux,html,css,js,nodejs,py,figma,flutter,dart,mysql&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,java,html,css,js,nodejs,figma,flutter,dart,mysql&perline=5)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiritos40&show_icons=true&locale=en&layout=compact&theme=transparent" alt="kiritos40" /></p>
 
